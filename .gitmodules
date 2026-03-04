@@ -1,0 +1,6 @@
+[submodule "so-101"]
+	path = so-101
+	url = https://github.com/Asher-Jiang/so-101.git
+[submodule "Umi_Lerobot_Retargeting"]
+	path = Umi_Lerobot_Retargeting
+	url = https://github.com/rebnoob/Umi_Lerobot_Retargeting.git
